@@ -1,0 +1,51 @@
+.info-avatar {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    line-height: 43px;
+    border-radius: 30px;
+    text-align: center;
+	font-size: 40pt;
+	text-decoration:bold;
+    margin-right: 10px;
+    color: white;
+}
+.user-avatar {
+    display: inline-block;
+    width: 45px;
+    height: 45px;
+    line-height: 43px;
+    border-radius: 30px;
+    text-align: center;
+	font-size: 35pt;
+    margin-right: 5px;
+    color: white;
+}
+.info-name {
+    display: inline-block;
+}
+.settingitems
+{
+	font-size: 40pt;
+	color: gray;
+}
+.settingitems:hover
+{
+	color: red;
+}
+p
+{
+	font-size: 14px;
+}
+#btnaddtodo
+{
+	border-radius: 50px
+}
+
+.drag {
+    display: inline-block;
+    margin-right: 10px;
+}
+section {
+    margin: 20px auto;
+}
